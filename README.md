@@ -1,10 +1,14 @@
-# moriexpress
+#Matteo Moricio
+I'm Matteo Moricio, I'm nineteen and I study computer science at I.T.I.S D.Scano.  This is my first repository, it's based on e-commerce, for buying and selling any object.
 
-## Introduction
+## moriexpress
+
+
+### Introduction
 
   This is my first project about a web site.
   
-## Goals
+####Goals
 
   The goals of this application are:
   1. GOAL1
