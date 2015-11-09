@@ -1,12 +1,12 @@
 #Matteo Moricio
-I'm Matteo Moricio, I'm nineteen and I study computer science at I.T.I.S D.Scano.  This is my first repository, it's based on e-commerce, for buying and selling any object.
+I'm Matteo Moricio, I'm nineteen and I study computer science at I.T.I.S D.Scano.  This is my first repository, it's based on e-commerce, for buying and selling any object, because I think that e-commerce is the future about purchases.
 
 ## moriexpress
 
 
 ### Introduction
 
-  This is my first project about a web site.
+  This is my first project about a web site, 
   
 ####Goals
 
